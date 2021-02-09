@@ -1,0 +1,2 @@
+C:\Users\Thibault\Documents\Maëva\VS_Projects\LeMotMystere\Debug\LeMotMystere.exe
+C:\Users\Thibault\Documents\Maëva\VS_Projects\LeMotMystere\Debug\LeMotMystere.pdb
